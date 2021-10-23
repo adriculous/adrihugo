@@ -1,0 +1,9 @@
+[submodule "themes/techfeed-hugo"]
+	path = themes/techfeed-hugo
+	url = https://github.com/gethugothemes/techfeed-hugo.git
+[submodule "themes/gokarna"]
+	path = themes/gokarna
+	url = https://github.com/526avijitgupta/gokarna.git
+[submodule "themes/hugo-minimalist-theme"]
+	path = themes/hugo-minimalist-theme
+	url = https://github.com/digitalcraftsman/hugo-minimalist-theme.git
