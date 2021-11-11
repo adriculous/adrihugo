@@ -15,9 +15,9 @@ theme = "hugo-minimalist-theme"
     location = "California, USA"
     # Link custom assets relative to /static
     avatar = "img/profile-image.png"
-    header_background = "img/desk.jpg"
-    header_title = "Customizable header title"
-    copyright = "Powered by [Hugo](http://gohugo.io)."
+    header_background = "img/adri_profpic_openhands.png"
+    header_title = "ADRIANNE.dev"
+    copyright = "&copy; [Adrianne Padua](https://adrianne.io)"
     custom_css = []
     custom_js  = []
 
